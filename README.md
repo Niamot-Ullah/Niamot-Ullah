@@ -1,6 +1,6 @@
 <img src="https://github.com/Niamot-Ullah/Niamot-Ullah/blob/main/github-header-image%20(3).png">
 
-👋 Hi, I'm Niamot Ullah<br>💻 MERN Stack Developer | 🌐 Passionate about building full-stack web apps<br>🎓 BSS in Economics, University of Barishal<br>🔭 Currently working on personal and open-source projects<br>📚 Learning every day — blending tech with analytical thinking<br>
+👋 Hi, I'm Neyamat Ullah<br>💻 MERN Stack Developer | 🌐 Passionate about building full-stack web apps<br>🎓 BSS in Economics, University of Barishal<br>🔭 Currently working on personal and open-source projects<br>📚 Learning every day — blending tech with analytical thinking<br>
 
 
 
