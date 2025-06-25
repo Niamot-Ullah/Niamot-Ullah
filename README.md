@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/Niamot-Ullah/Niamot-Ullah/blob/main/github-header-image%20(2).png"/>
+<img src="https://github.com/Niamot-Ullah/Niamot-Ullah/blob/main/github-header-image%20(3).png"/>
 
 <!--
 **Niamot-Ullah/Niamot-Ullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
