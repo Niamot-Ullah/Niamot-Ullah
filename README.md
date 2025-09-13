@@ -12,8 +12,6 @@
 # 📊 GitHub Stats:
 ![Neyamat-Ullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neyamat-Ullah&theme=default&hide_border=false) <br/>
 ![Neyamat-Ullah's Stats](https://github-readme-stats.vercel.app/api?username=Neyamat-Ullah&theme=default&show_icons=true&hide_border=false&count_private=true) <br/>
-![Neyamat-Ullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neyamat-Ullah&theme=default&show_icons=true&hide_border=false&layout=compact)
-<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niamot-Ullah&theme=defaul&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
