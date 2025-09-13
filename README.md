@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niamot.ullah.652643)
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niamotullah009@gmail.com) 
 
 # 💻 Tech Stack:
